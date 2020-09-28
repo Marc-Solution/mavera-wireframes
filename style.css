@@ -1,0 +1,40 @@
+
+body {
+    text-align: center;
+}
+
+h1, h2 {
+    margin-top: 150px;
+}
+
+img {
+    margin: 30px;
+    width: 50%;
+}
+
+nav {
+    margin-bottom: 55px;
+}
+
+footer {
+    width: 100%;
+    color: #fafafa;
+    background-color: #393b44;
+    /* position: absolute; */
+    bottom: 0;   
+}
+
+.social-links{
+    text-align: center;
+}
+
+.social-links li {
+    display:inline;
+}
+
+.social-links i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 4%;
+    color: #777777;
+}
